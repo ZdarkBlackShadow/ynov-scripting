@@ -1,6 +1,6 @@
 # Consigne  
 
-Créer un enregistreur de frappes (keylogger) avec gestion de buffer
+Créer un enregistreur de frappes (keylogger)
 
 ## Prérequis  
 
