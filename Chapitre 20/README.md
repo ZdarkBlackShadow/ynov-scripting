@@ -1,4 +1,4 @@
-# Analyse de Malware Python (Rapport de Lab)
+# Analyse de Malware Python
 
 ## Objectif : Étude du comportement de scripts malveillants basiques et analyse des mécanismes d'infection.
 
